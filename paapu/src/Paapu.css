@@ -1,0 +1,27 @@
+*{
+    background: aqua;
+   
+}
+.table,td,th{
+    
+        border-color: inherit;
+        border-style: solid;
+        border-width: 2px !important;
+      
+}
+th{
+    text-align: center;
+}
+.text-center{
+    margin-left: 38%;
+    margin-top: -5%;
+    position: fixed;
+    background: transparent;
+  
+}
+.table{
+    margin-top: 3%;
+}
+/*td,th{
+    width: 30px !important;   
+}*/
